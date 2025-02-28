@@ -3,6 +3,11 @@
 ![alt text](images/logo.png)
 
 # Table of Contents
+- Overview
+- Questions
+- Cleaning
+- Analyzing the Data
+- Credits
 
 # Overview
 
