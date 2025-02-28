@@ -7,6 +7,7 @@
 - Questions
 - Cleaning
 - Analyzing the Data
+- Future Recommendations
 - Credits
 
 # Overview
@@ -284,8 +285,11 @@ Here is what I found:
 - Atk and def are somewhat correlated.
 - Nothing that was strongly negatively correlated.
 
-
 ![alt text](images/heatmap.png)
+
+# Future Recommendations
+A few things I would like to see compared in the future are the relationship between card price and staple status, card price and ban status, card price
+and views, card price and card rarity. I did find another dataset on Kaggle that had prices that could be useful for this.
 
 # Credits
 
